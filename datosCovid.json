@@ -1,0 +1,834 @@
+{
+  "departamentos":[
+  {
+    "Departamento": "Amazonas",
+    "Casa": 18,
+    "Fallecido": 117,
+    "Hospital": 2,
+    "HospitalUCI": 2,
+    "n/a": 2,
+    "Recuperado": 2629,
+    "Total": 2770,
+    "PromedioDep": "0.",
+    "Femenino": 1125,
+    "Masculino": 1645
+  },
+  {
+    "Departamento": "Antioquia",
+    "Casa": 9918,
+    "Fallecido": 2819,
+    "Hospital": 1816,
+    "HospitalUCI": 269,
+    "n/a": 215,
+    "Recuperado": 126390,
+    "Total": 141427,
+    "PromedioDep": 14.8,
+    "Femenino": 70362,
+    "Masculino": 71065
+  },
+  {
+    "Departamento": "Arauca",
+    "Casa": 330,
+    "Fallecido": 71,
+    "Hospital": 45,
+    "HospitalUCI": 2,
+    "n/a": 5,
+    "Recuperado": 2108,
+    "Total": 2561,
+    "PromedioDep": 0.3,
+    "Femenino": 1077,
+    "Masculino": 1484
+  },
+  {
+    "Departamento": "San Andres",
+    "Casa": 118,
+    "Fallecido": 27,
+    "Hospital": 28,
+    "HospitalUCI": 4,
+    "n/a": 2,
+    "Recuperado": 1545,
+    "Total": 1724,
+    "PromedioDep": 0.2,
+    "Femenino": 881,
+    "Masculino": 843
+  },
+  {
+    "Departamento": "Atlantico",
+    "Casa": 348,
+    "Fallecido": 1410,
+    "Hospital": 103,
+    "HospitalUCI": 11,
+    "n/a": 105,
+    "Recuperado": 28122,
+    "Total": 30099,
+    "PromedioDep": 3.2,
+    "Femenino": 14305,
+    "Masculino": 15794
+  },
+  {
+    "Departamento": "Barranquilla D.E.",
+    "Casa": 575,
+    "Fallecido": 1690,
+    "Hospital": 21,
+    "HospitalUCI": 3,
+    "n/a": 129,
+    "Recuperado": 37040,
+    "Total": 39458,
+    "PromedioDep": 4.1,
+    "Femenino": 18774,
+    "Masculino": 20684
+  },
+  {
+    "Departamento": "Bogota DC",
+    "Casa": 17923,
+    "Fallecido": 7277,
+    "Hospital": 3373,
+    "HospitalUCI": 492,
+    "n/a": 574,
+    "Recuperado": 265955,
+    "Total": 295594,
+    "PromedioDep": 31,
+    "Femenino": 152394,
+    "Masculino": 143200
+  },
+  {
+    "Departamento": "Bolivar",
+    "Casa": 153,
+    "Fallecido": 246,
+    "Hospital": 65,
+    "HospitalUCI": 11,
+    "n/a": 27,
+    "Recuperado": 5855,
+    "Total": 6357,
+    "PromedioDep": 0.7,
+    "Femenino": 3065,
+    "Masculino": 3292
+  },
+  {
+    "Departamento": "Boyaca",
+    "Casa": 1747,
+    "Fallecido": 221,
+    "Hospital": 356,
+    "HospitalUCI": 24,
+    "n/a": 31,
+    "Recuperado": 8327,
+    "Total": 10706,
+    "PromedioDep": 1.1,
+    "Femenino": 4978,
+    "Masculino": 5728
+  },
+  {
+    "Departamento": "Buenaventura D.E.",
+    "Casa": 11,
+    "Fallecido": 172,
+    "Hospital": 24,
+    "HospitalUCI": 4,
+    "n/a": 9,
+    "Recuperado": 2393,
+    "Total": 2613,
+    "PromedioDep": 0.3,
+    "Femenino": 966,
+    "Masculino": 1647
+  },
+  {
+    "Departamento": "Cordoba",
+    "Casa": 440,
+    "Fallecido": 1593,
+    "Hospital": 645,
+    "HospitalUCI": 23,
+    "n/a": 130,
+    "Recuperado": 22552,
+    "Total": 25383,
+    "PromedioDep": 2.7,
+    "Femenino": 13278,
+    "Masculino": 12105
+  },
+  {
+    "Departamento": "Caldas",
+    "Casa": 1579,
+    "Fallecido": 194,
+    "Hospital": 223,
+    "HospitalUCI": 29,
+    "n/a": 35,
+    "Recuperado": 6928,
+    "Total": 8988,
+    "PromedioDep": 0.9,
+    "Femenino": 4484,
+    "Masculino": 4504
+  },
+  {
+    "Departamento": "Caqueta",
+    "Casa": 486,
+    "Fallecido": 351,
+    "Hospital": 417,
+    "HospitalUCI": 22,
+    "n/a": 38,
+    "Recuperado": 8840,
+    "Total": 10154,
+    "PromedioDep": 1.1,
+    "Femenino": 4968,
+    "Masculino": 5186
+  },
+  {
+    "Departamento": "Cartagena D.T. y C.",
+    "Casa": 464,
+    "Fallecido": 570,
+    "Hospital": 62,
+    "HospitalUCI": 13,
+    "n/a": 40,
+    "Recuperado": 23704,
+    "Total": 24853,
+    "PromedioDep": 2.6,
+    "Femenino": 11800,
+    "Masculino": 13053
+  },
+  {
+    "Departamento": "Casanare",
+    "Casa": 767,
+    "Fallecido": 67,
+    "Hospital": 174,
+    "HospitalUCI": 18,
+    "n/a": 4,
+    "Recuperado": 2707,
+    "Total": 3737,
+    "PromedioDep": 0.4,
+    "Femenino": 1614,
+    "Masculino": 2123
+  },
+  {
+    "Departamento": "Cauca",
+    "Casa": 814,
+    "Fallecido": 322,
+    "Hospital": 458,
+    "HospitalUCI": 123,
+    "n/a": 39,
+    "Recuperado": 9923,
+    "Total": 11679,
+    "PromedioDep": 1.2,
+    "Femenino": 5823,
+    "Masculino": 5856
+  },
+  {
+    "Departamento": "Cesar",
+    "Casa": 1079,
+    "Fallecido": 728,
+    "Hospital": 957,
+    "HospitalUCI": 79,
+    "n/a": 44,
+    "Recuperado": 20483,
+    "Total": 23370,
+    "PromedioDep": 2.5,
+    "Femenino": 11644,
+    "Masculino": 11726
+  },
+  {
+    "Departamento": "Choco",
+    "Casa": 26,
+    "Fallecido": 160,
+    "Hospital": 50,
+    "HospitalUCI": 3,
+    "n/a": 14,
+    "Recuperado": 3836,
+    "Total": 4089,
+    "PromedioDep": 0.4,
+    "Femenino": 1945,
+    "Masculino": 2144
+  },
+  {
+    "Departamento": "Cundinamarca",
+    "Casa": 1925,
+    "Fallecido": 1120,
+    "Hospital": 707,
+    "HospitalUCI": 64,
+    "n/a": 53,
+    "Recuperado": 34293,
+    "Total": 38162,
+    "PromedioDep": 4,
+    "Femenino": 19545,
+    "Masculino": 18617
+  },
+  {
+    "Departamento": "Guainia",
+    "Casa": 61,
+    "Fallecido": 17,
+    "Hospital": 6,
+    "HospitalUCI": 1,
+    "n/a": 1,
+    "Recuperado": 991,
+    "Total": 1077,
+    "PromedioDep": 0.1,
+    "Femenino": 502,
+    "Masculino": 575
+  },
+  {
+    "Departamento": "Guaviare",
+    "Casa": 135,
+    "Fallecido": 21,
+    "Hospital": 11,
+    "HospitalUCI": 1,
+    "n/a": 2,
+    "Recuperado": 1035,
+    "Total": 1205,
+    "PromedioDep": 0.1,
+    "Femenino": 497,
+    "Masculino": 708
+  },
+  {
+    "Departamento": "Huila",
+    "Casa": 2147,
+    "Fallecido": 502,
+    "Hospital": 253,
+    "HospitalUCI": 119,
+    "n/a": 29,
+    "Recuperado": 14080,
+    "Total": 17130,
+    "PromedioDep": 1.8,
+    "Femenino": 8321,
+    "Masculino": 8809
+  },
+  {
+    "Departamento": "La Guajira",
+    "Casa": 307,
+    "Fallecido": 371,
+    "Hospital": 246,
+    "HospitalUCI": 16,
+    "n/a": 15,
+    "Recuperado": 8227,
+    "Total": 9182,
+    "PromedioDep": 1,
+    "Femenino": 4788,
+    "Masculino": 4394
+  },
+  {
+    "Departamento": "Magdalena",
+    "Casa": 99,
+    "Fallecido": 412,
+    "Hospital": 168,
+    "HospitalUCI": 12,
+    "n/a": 40,
+    "Recuperado": 4862,
+    "Total": 5593,
+    "PromedioDep": 0.6,
+    "Femenino": 2865,
+    "Masculino": 2728
+  },
+  {
+    "Departamento": "Meta",
+    "Casa": 1318,
+    "Fallecido": 481,
+    "Hospital": 267,
+    "HospitalUCI": 17,
+    "n/a": 40,
+    "Recuperado": 17644,
+    "Total": 19767,
+    "PromedioDep": 2.1,
+    "Femenino": 8214,
+    "Masculino": 11553
+  },
+  {
+    "Departamento": "Narinio",
+    "Casa": 1005,
+    "Fallecido": 734,
+    "Hospital": 483,
+    "HospitalUCI": 36,
+    "n/a": 52,
+    "Recuperado": 17881,
+    "Total": 20191,
+    "PromedioDep": 2.1,
+    "Femenino": 9935,
+    "Masculino": 10256
+  },
+  {
+    "Departamento": "Norte de Santander",
+    "Casa": 1070,
+    "Fallecido": 996,
+    "Hospital": 107,
+    "HospitalUCI": 78,
+    "n/a": 39,
+    "Recuperado": 16295,
+    "Total": 18585,
+    "PromedioDep": 2,
+    "Femenino": 8837,
+    "Masculino": 9748
+  },
+  {
+    "Departamento": "Putumayo",
+    "Casa": 100,
+    "Fallecido": 192,
+    "Hospital": 221,
+    "HospitalUCI": 8,
+    "n/a": 6,
+    "Recuperado": 3601,
+    "Total": 4128,
+    "PromedioDep": 0.4,
+    "Femenino": 1915,
+    "Masculino": 2213
+  },
+  {
+    "Departamento": "Quindio",
+    "Casa": 1417,
+    "Fallecido": 167,
+    "Hospital": 138,
+    "HospitalUCI": 6,
+    "n/a": 3,
+    "Recuperado": 4843,
+    "Total": 6574,
+    "PromedioDep": 0.7,
+    "Femenino": 3313,
+    "Masculino": 3261
+  },
+  {
+    "Departamento": "Risaralda",
+    "Casa": 1468,
+    "Fallecido": 313,
+    "Hospital": 358,
+    "HospitalUCI": 51,
+    "n/a": 23,
+    "Recuperado": 12371,
+    "Total": 14584,
+    "PromedioDep": 1.5,
+    "Femenino": 7194,
+    "Masculino": 7390
+  },
+  {
+    "Departamento": "Santa Marta D.T. y C.",
+    "Casa": 184,
+    "Fallecido": 455,
+    "Hospital": 204,
+    "HospitalUCI": 12,
+    "n/a": 29,
+    "Recuperado": 9893,
+    "Total": 10777,
+    "PromedioDep": 1.1,
+    "Femenino": 5435,
+    "Masculino": 5342
+  },
+  {
+    "Departamento": "Santander",
+    "Casa": 2448,
+    "Fallecido": 1518,
+    "Hospital": 1300,
+    "HospitalUCI": 112,
+    "n/a": 77,
+    "Recuperado": 31735,
+    "Total": 37190,
+    "PromedioDep": 3.9,
+    "Femenino": 17293,
+    "Masculino": 19897
+  },
+  {
+    "Departamento": "Sucre",
+    "Casa": 255,
+    "Fallecido": 600,
+    "Hospital": 254,
+    "HospitalUCI": 11,
+    "n/a": 39,
+    "Recuperado": 13843,
+    "Total": 15002,
+    "PromedioDep": 1.6,
+    "Femenino": 7477,
+    "Masculino": 7525
+  },
+  {
+    "Departamento": "Tolima",
+    "Casa": 1240,
+    "Fallecido": 466,
+    "Hospital": 403,
+    "HospitalUCI": 24,
+    "n/a": 52,
+    "Recuperado": 13288,
+    "Total": 15473,
+    "PromedioDep": 1.6,
+    "Femenino": 6721,
+    "Masculino": 8752
+  },
+  {
+    "Departamento": "Valle del Cauca",
+    "Casa": 4421,
+    "Fallecido": 2384,
+    "Hospital": 1601,
+    "HospitalUCI": 257,
+    "n/a": 191,
+    "Recuperado": 61632,
+    "Total": 70486,
+    "PromedioDep": 7.4,
+    "Femenino": 34678,
+    "Masculino": 35808
+  },
+  {
+    "Departamento": "Vaupes",
+    "Casa": 24,
+    "Fallecido": 12,
+    "Hospital": 5,
+    "HospitalUCI": 0,
+    "n/a": 0,
+    "Recuperado": 934,
+    "Total": 975,
+    "PromedioDep": 0.1,
+    "Femenino": 445,
+    "Masculino": 530
+  },
+  {
+    "Departamento": "Vichada",
+    "Casa": 32,
+    "Fallecido": 7,
+    "Hospital": 6,
+    "HospitalUCI": 1,
+    "n/a": 0,
+    "Recuperado": 682,
+    "Total": 728,
+    "PromedioDep": 0.1,
+    "Femenino": 297,
+    "Masculino": 431
+  }
+],
+"pie": {
+"Amazonas" : {
+    "Casa": 18,
+    "Fallecido": 117,
+    "Hospital": 2,
+    "HospitalUCI": 2,
+    "n/a": 2,
+    "Recuperado": 2629
+   },
+"Antioquia":
+  {
+    "Casa": 9918,
+    "Fallecido": 2819,
+    "Hospital": 1816,
+    "HospitalUCI": 269,
+    "n/a": 215,
+    "Recuperado": 126390
+  },
+ "Arauca":
+  {
+    "Casa": 330,
+    "Fallecido": 71,
+    "Hospital": 45,
+    "HospitalUCI": 2,
+    "n/a": 5,
+    "Recuperado": 2108
+  },
+  "San Andres":
+  {
+    "Casa": 118,
+    "Fallecido": 27,
+    "Hospital": 28,
+    "HospitalUCI": 4,
+    "n/a": 2,
+    "Recuperado": 1545
+  },
+  "Atlantico":
+  {
+    "Casa": 348,
+    "Fallecido": 1410,
+    "Hospital": 103,
+    "HospitalUCI": 11,
+    "n/a": 105,
+    "Recuperado": 28122
+  },
+"Barranquilla D.E.":
+  {
+    "Casa": 575,
+    "Fallecido": 1690,
+    "Hospital": 21,
+    "HospitalUCI": 3,
+    "n/a": 129,
+    "Recuperado": 37040
+  },
+ "Bogota DC":
+  {
+    "Casa": 17923,
+    "Fallecido": 7277,
+    "Hospital": 3373,
+    "HospitalUCI": 492,
+    "n/a": 574,
+    "Recuperado": 265955
+  },
+"Bolivar":
+  {
+    "Casa": 153,
+    "Fallecido": 246,
+    "Hospital": 65,
+    "HospitalUCI": 11,
+    "n/a": 27,
+    "Recuperado": 5855
+  },
+"Boyaca":
+  {
+    "Casa": 1747,
+    "Fallecido": 221,
+    "Hospital": 356,
+    "HospitalUCI": 24,
+    "n/a": 31,
+    "Recuperado": 8327
+  },
+"Buenaventura D.E."
+  {
+    "Casa": 11,
+    "Fallecido": 172,
+    "Hospital": 24,
+    "HospitalUCI": 4,
+    "n/a": 9,
+    "Recuperado": 2393
+  },
+ "Cordoba":
+  {
+    "Casa": 440,
+    "Fallecido": 1593,
+    "Hospital": 645,
+    "HospitalUCI": 23,
+    "n/a": 130,
+    "Recuperado": 22552
+  },
+ "Caldas":
+  {
+    "Casa": 1579,
+    "Fallecido": 194,
+    "Hospital": 223,
+    "HospitalUCI": 29,
+    "n/a": 35,
+    "Recuperado": 6928
+  },
+ "Caqueta":
+  {
+    "Casa": 486,
+    "Fallecido": 351,
+    "Hospital": 417,
+    "HospitalUCI": 22,
+    "n/a": 38,
+    "Recuperado": 8840
+  },
+"Cartagena D.T. y C.":
+  {
+    "Casa": 464,
+    "Fallecido": 570,
+    "Hospital": 62,
+    "HospitalUCI": 13,
+    "n/a": 40,
+    "Recuperado": 23704,
+  },
+"Casanare":
+  {
+    "Casa": 767,
+    "Fallecido": 67,
+    "Hospital": 174,
+    "HospitalUCI": 18,
+    "n/a": 4,
+    "Recuperado": 2707,
+  },
+"Cauca":
+  {
+    "Casa": 814,
+    "Fallecido": 322,
+    "Hospital": 458,
+    "HospitalUCI": 123,
+    "n/a": 39,
+    "Recuperado": 9923,
+  },
+"Cesar":
+  {
+    "Casa": 1079,
+    "Fallecido": 728,
+    "Hospital": 957,
+    "HospitalUCI": 79,
+    "n/a": 44,
+    "Recuperado": 20483,
+  },
+"Choco":
+  {
+    "Casa": 26,
+    "Fallecido": 160,
+    "Hospital": 50,
+    "HospitalUCI": 3,
+    "n/a": 14,
+    "Recuperado": 3836
+  },
+"Cundinamarca":
+  {
+    "Casa": 1925,
+    "Fallecido": 1120,
+    "Hospital": 707,
+    "HospitalUCI": 64,
+    "n/a": 53,
+    "Recuperado": 34293
+  },
+"Guainia":
+  {
+    "Casa": 61,
+    "Fallecido": 17,
+    "Hospital": 6,
+    "HospitalUCI": 1,
+    "n/a": 1,
+    "Recuperado": 991,
+  },
+"Guaviare":
+  {
+    "Casa": 135,
+    "Fallecido": 21,
+    "Hospital": 11,
+    "HospitalUCI": 1,
+    "n/a": 2,
+    "Recuperado": 1035,
+  },
+ "Huila":
+  {
+    "Departamento":,
+    "Casa": 2147,
+    "Fallecido": 502,
+    "Hospital": 253,
+    "HospitalUCI": 119,
+    "n/a": 29,
+    "Recuperado": 14080,
+  },
+"La Guajira":
+  {
+    "Casa": 307,
+    "Fallecido": 371,
+    "Hospital": 246,
+    "HospitalUCI": 16,
+    "n/a": 15,
+    "Recuperado": 8227,
+  },
+"Magdalena"
+  {
+    "Casa": 99,
+    "Fallecido": 412,
+    "Hospital": 168,
+    "HospitalUCI": 12,
+    "n/a": 40,
+    "Recuperado": 4862,
+  },
+ "Meta":
+  {
+    "Casa": 1318,
+    "Fallecido": 481,
+    "Hospital": 267,
+    "HospitalUCI": 17,
+    "n/a": 40,
+    "Recuperado": 17644,
+  },
+"Narinio":
+  {
+    "Casa": 1005,
+    "Fallecido": 734,
+    "Hospital": 483,
+    "HospitalUCI": 36,
+    "n/a": 52,
+    "Recuperado": 17881
+  },
+"Norte de Santander":
+  {
+    "Casa": 1070,
+    "Fallecido": 996,
+    "Hospital": 107,
+    "HospitalUCI": 78,
+    "n/a": 39,
+    "Recuperado": 16295,
+  },
+ "Putumayo":
+  {
+    "Departamento":,
+    "Casa": 100,
+    "Fallecido": 192,
+    "Hospital": 221,
+    "HospitalUCI": 8,
+    "n/a": 6,
+    "Recuperado": 3601,
+  },
+  {
+    "Departamento": "Quindio",
+    "Casa": 1417,
+    "Fallecido": 167,
+    "Hospital": 138,
+    "HospitalUCI": 6,
+    "n/a": 3,
+    "Recuperado": 4843,
+    "Total": 6574,
+    "PromedioDep": 0.7,
+    "Femenino": 3313,
+    "Masculino": 3261
+  },
+  {
+    "Departamento": "Risaralda",
+    "Casa": 1468,
+    "Fallecido": 313,
+    "Hospital": 358,
+    "HospitalUCI": 51,
+    "n/a": 23,
+    "Recuperado": 12371,
+    "Total": 14584,
+    "PromedioDep": 1.5,
+    "Femenino": 7194,
+    "Masculino": 7390
+  },
+  {
+    "Departamento": "Santa Marta D.T. y C.",
+    "Casa": 184,
+    "Fallecido": 455,
+    "Hospital": 204,
+    "HospitalUCI": 12,
+    "n/a": 29,
+    "Recuperado": 9893,
+    "Total": 10777,
+    "PromedioDep": 1.1,
+    "Femenino": 5435,
+    "Masculino": 5342
+  },
+"Santander":
+  {
+    "Casa": 2448,
+    "Fallecido": 1518,
+    "Hospital": 1300,
+    "HospitalUCI": 112,
+    "n/a": 77,
+    "Recuperado": 31735
+  },
+"Sucre":
+  {
+    "Casa": 255,
+    "Fallecido": 600,
+    "Hospital": 254,
+    "HospitalUCI": 11,
+    "n/a": 39,
+    "Recuperado": 13843
+  },
+ "Tolima":
+  {
+    "Casa": 1240,
+    "Fallecido": 466,
+    "Hospital": 403,
+    "HospitalUCI": 24,
+    "n/a": 52,
+    "Recuperado": 13288,
+  },
+"Valle del Cauca":
+  {
+    "Casa": 4421,
+    "Fallecido": 2384,
+    "Hospital": 1601,
+    "HospitalUCI": 257,
+    "n/a": 191,
+    "Recuperado": 61632,
+  },
+"Vaupes":
+  {
+    "Casa": 24,
+    "Fallecido": 12,
+    "Hospital": 5,
+    "HospitalUCI": 0,
+    "n/a": 0,
+    "Recuperado": 934
+  },
+ "Vichada":
+  {
+    "Departamento": ,
+    "Casa": 32,
+    "Fallecido": 7,
+    "Hospital": 6,
+    "HospitalUCI": 1,
+    "n/a": 0,
+    "Recuperado": 682
+  }
+]
+}
