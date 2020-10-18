@@ -1,0 +1,187 @@
+[
+  {
+    "Departamento": "Amazonas",
+    "Total": 2757,
+    "PromedioporDepartamento": 0.3
+  },
+  {
+    "Departamento": "Antioquia",
+    "Total": 139833,
+    "PromedioporDepartamento": 14.8
+  },
+  {
+    "Departamento": "Arauca",
+    "Total": 2496,
+    "PromedioporDepartamento": 0.3
+  },
+  {
+    "Departamento": "San Andres",
+    "Total": 1715,
+    "PromedioporDepartamento": 0.2
+  },
+  {
+    "Departamento": "Atlantico",
+    "Total": 30068,
+    "PromedioporDepartamento": 3.2
+  },
+  {
+    "Departamento": "Barranquilla D.E.",
+    "Total": 39374,
+    "PromedioporDepartamento": 4.2
+  },
+  {
+    "Departamento": "Bogot� DC",
+    "Total": 294032,
+    "PromedioporDepartamento": 31.1
+  },
+  {
+    "Departamento": "Bolivar",
+    "Total": 6338,
+    "PromedioporDepartamento": 0.7
+  },
+  {
+    "Departamento": "Boyac�",
+    "Total": 10552,
+    "PromedioporDepartamento": 1.1
+  },
+  {
+    "Departamento": "Buenaventura D.E.",
+    "Total": 2609,
+    "PromedioporDepartamento": 0.3
+  },
+  {
+    "Departamento": "C�rdoba",
+    "Total": 25364,
+    "PromedioporDepartamento": 2.7
+  },
+  {
+    "Departamento": "Caldas",
+    "Total": 8753,
+    "PromedioporDepartamento": 0.9
+  },
+  {
+    "Departamento": "Caquet�",
+    "Total": 10044,
+    "PromedioporDepartamento": 1.1
+  },
+  {
+    "Departamento": "Cartagena D.T. y C.",
+    "Total": 24784,
+    "PromedioporDepartamento": 2.6
+  },
+  {
+    "Departamento": "Casanare",
+    "Total": 3677,
+    "PromedioporDepartamento": 0.4
+  },
+  {
+    "Departamento": "Cauca",
+    "Total": 11589,
+    "PromedioporDepartamento": 1.2
+  },
+  {
+    "Departamento": "Cesar",
+    "Total": 23272,
+    "PromedioporDepartamento": 2.5
+  },
+  {
+    "Departamento": "Choc�",
+    "Total": 4089,
+    "PromedioporDepartamento": 0.4
+  },
+  {
+    "Departamento": "Cundinamarca",
+    "Total": 37954,
+    "PromedioporDepartamento": 4
+  },
+  {
+    "Departamento": "Guain�a",
+    "Total": 1048,
+    "PromedioporDepartamento": 0.1
+  },
+  {
+    "Departamento": "Guaviare",
+    "Total": 1191,
+    "PromedioporDepartamento": 0.1
+  },
+  {
+    "Departamento": "Huila",
+    "Total": 16776,
+    "PromedioporDepartamento": 1.8
+  },
+  {
+    "Departamento": "La Guajira",
+    "Total": 9147,
+    "PromedioporDepartamento": 1
+  },
+  {
+    "Departamento": "Magdalena",
+    "Total": 5580,
+    "PromedioporDepartamento": 0.6
+  },
+  {
+    "Departamento": "Meta",
+    "Total": 19551,
+    "PromedioporDepartamento": 2.1
+  },
+  {
+    "Departamento": "Nari�o",
+    "Total": 20086,
+    "PromedioporDepartamento": 2.1
+  },
+  {
+    "Departamento": "Norte de Santander",
+    "Total": 18502,
+    "PromedioporDepartamento": 2
+  },
+  {
+    "Departamento": "Putumayo",
+    "Total": 4091,
+    "PromedioporDepartamento": 0.4
+  },
+  {
+    "Departamento": "Quind�o",
+    "Total": 6414,
+    "PromedioporDepartamento": 0.7
+  },
+  {
+    "Departamento": "Risaralda",
+    "Total": 14320,
+    "PromedioporDepartamento": 1.5
+  },
+  {
+    "Departamento": "Santa Marta D.T. y C.",
+    "Total": 10753,
+    "PromedioporDepartamento": 1.1
+  },
+  {
+    "Departamento": "Santander",
+    "Total": 36902,
+    "PromedioporDepartamento": 3.9
+  },
+  {
+    "Departamento": "Sucre",
+    "Total": 14952,
+    "PromedioporDepartamento": 1.6
+  },
+  {
+    "Departamento": "Tolima",
+    "Total": 15247,
+    "PromedioporDepartamento": 1.6
+  },
+  {
+    "Departamento": "Valle del Cauca",
+    "Total": 69791,
+    "PromedioporDepartamento": 7.4
+  },
+  {
+    "Departamento": "Vaup�s",
+    "Total": 975,
+    "PromedioporDepartamento": 0.1
+  },
+  {
+    "Departamento": "Vichada",
+    "Total": 728,
+    "PromedioporDepartamento": 0.1
+  }
+]
